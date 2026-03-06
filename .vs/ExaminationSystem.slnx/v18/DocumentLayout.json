@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Files\\ITI\\Projects\\SQL Project\\ExaminationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My Files\\ITI\\Projects\\SQL Project\\ExaminationSystem\\Doaa_Ashraf.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Doaa_Ashraf.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NoteBook\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\10270000A711B71E66BBBD96DAFEAC7DB46FC1CD\\transfers\\2026-10\\project.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My Files\\ITI\\Projects\\SQL Project\\ExaminationSystem\\Mohamed_Abobakr.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mohamed_Abobakr.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\My Files\\ITI\\Projects\\SQL Project\\ExaminationSystem\\Test_Data.SQL||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test_Data.SQL||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "project.sql - DOAA.ADM (DOAA\\NoteBook (72))",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\10270000A711B71E66BBBD96DAFEAC7DB46FC1CD\\transfers\\2026-10\\project.sql",
+              "ToolTip": "C:\\Users\\NoteBook\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\10270000A711B71E66BBBD96DAFEAC7DB46FC1CD\\transfers\\2026-10\\project.sql - DOAA.ADM (DOAA\\NoteBook (72))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-05T12:34:58.909Z",
+              "EditorCaption": " - DOAA.ADM (DOAA\\NoteBook (72))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mohamed_Abobakr.sql - DOAA.ADM (DOAA\\NoteBook (70))",
+              "DocumentMoniker": "E:\\My Files\\ITI\\Projects\\SQL Project\\ExaminationSystem\\Mohamed_Abobakr.sql",
+              "RelativeDocumentMoniker": "Mohamed_Abobakr.sql",
+              "ToolTip": "E:\\My Files\\ITI\\Projects\\SQL Project\\ExaminationSystem\\Mohamed_Abobakr.sql - DOAA.ADM (DOAA\\NoteBook (70))",
+              "RelativeToolTip": "Mohamed_Abobakr.sql - DOAA.ADM (DOAA\\NoteBook (70))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-05T12:30:49.823Z",
+              "EditorCaption": " - DOAA.ADM (DOAA\\NoteBook (70))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doaa_Ashraf.sql - DOAA.ADM (DOAA\\NoteBook (90))",
+              "DocumentMoniker": "E:\\My Files\\ITI\\Projects\\SQL Project\\ExaminationSystem\\Doaa_Ashraf.sql",
+              "RelativeDocumentMoniker": "Doaa_Ashraf.sql",
+              "ToolTip": "E:\\My Files\\ITI\\Projects\\SQL Project\\ExaminationSystem\\Doaa_Ashraf.sql - DOAA.ADM (DOAA\\NoteBook (90))",
+              "RelativeToolTip": "Doaa_Ashraf.sql - DOAA.ADM (DOAA\\NoteBook (90))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-05T10:43:02.899Z",
+              "EditorCaption": " - DOAA.ADM (DOAA\\NoteBook (90))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test_Data.SQL - DOAA.ADM (DOAA\\NoteBook (80))",
+              "DocumentMoniker": "E:\\My Files\\ITI\\Projects\\SQL Project\\ExaminationSystem\\Test_Data.SQL",
+              "RelativeDocumentMoniker": "Test_Data.SQL",
+              "ToolTip": "E:\\My Files\\ITI\\Projects\\SQL Project\\ExaminationSystem\\Test_Data.SQL - DOAA.ADM (DOAA\\NoteBook (80))",
+              "RelativeToolTip": "Test_Data.SQL - DOAA.ADM (DOAA\\NoteBook (80))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-05T10:32:02.505Z",
+              "EditorCaption": " - DOAA.ADM (DOAA\\NoteBook (80))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
